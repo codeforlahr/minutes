@@ -1,1 +1,1 @@
-# minutes
+# meeting minutes
